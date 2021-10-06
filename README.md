@@ -3,7 +3,7 @@
 
 - 🔭 Atualmente estou estudando programação visada para jogos
 - 🌱 Atualmente estou estudando a linguagem C#
-- 👯 Estou procurando formar uma euipq para cirar jogos e ganhar experiência na área 
+- 👯 Estou procurando formar uma equipe para ganhar experiência na área 
 - 😄 Pronouns: ele/dele
 
 -->>
