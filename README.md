@@ -1,8 +1,8 @@
 ### Oie!!Sou José Eduardo
 
 
-- 🔭 Atualmente estou estudando programação visada para jogos
-- 🌱 Atualmente estou estudando a linguagem C#
+- 🔭 Atualmente estou estudando ánalise e desenvolvimento de siatemas
+- 🌱 Atualmente estou estudando a linguagem JavaScript e me aprofundando em Html e Css
 - 👯 Estou procurando formar uma equipe para ganhar experiência na área 
 - 😄 Pronouns: ele/dele
 
